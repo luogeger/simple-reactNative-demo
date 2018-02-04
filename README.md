@@ -8,3 +8,6 @@
 > 下载依赖（npm install）或者使用yarn（推荐），运行react-native run-android（连接真机或虚拟机）来开发和调试
 
 > 要坚持做下去，加油...
+
+
+> flag
